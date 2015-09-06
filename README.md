@@ -1,4 +1,4 @@
-# Battle Timer (for Roll20)
+# Turn Timer (for Roll20)
 
 ## License
 
